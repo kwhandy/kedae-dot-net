@@ -118,4 +118,4 @@ $('.counter').counterUp({
     });
 
 
-
+});
