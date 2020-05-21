@@ -1706,7 +1706,7 @@ body {
 
 @media only screen and (min-width: 1024px) {
 	.hero-2 .form-alt input {
-		padding: 0 100px 0 50px;
+		padding: 0 100px 0 20px;
 	}
 }
 
