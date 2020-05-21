@@ -117,11 +117,13 @@ $('.counter').counterUp({
       }, 3000);
     });
 
+
+
 var form = document.querySelector('.pageclip-form')
 Pageclip.form(form, {
   onSubmit: function (event) { },
   onResponse: function (error, response) { },
-  successTemplate: '<span>Terimakasih untuk terhubung!</span>'
+  successTemplate: '<span style="font-weight:800;">Terimakasih untuk terhubung!</span>'
 })
 
 });
