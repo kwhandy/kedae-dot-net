@@ -1,7 +1,5 @@
 // Custom Scripts for Array Template
 
-import jQuery from 'jquery';
-
 jQuery(function($) {
     "use strict";
 
