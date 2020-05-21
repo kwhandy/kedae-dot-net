@@ -460,7 +460,8 @@ body {
   border-radius: 4px;
 	background-color: #F3F3F3;
   outline: none;
-  padding: 0 100px 0 20px;
+  padding: 0 20px 0 20px;
+  width: 320px;
 	box-shadow: 0 5px 30px rgba(255, 255, 255, 0.1);
 }
 
@@ -1296,7 +1297,7 @@ body {
   border-radius: 4px;
 	background-color: #FFFFFF;
   outline: none;
-  padding: 0 100px 0 20px;
+  padding: 0 20px 0 20px;
 	box-shadow: 0 5px 30px rgba(255, 255, 255, 0.1);
 }
 
@@ -1706,13 +1707,15 @@ body {
 
 @media only screen and (min-width: 1024px) {
 	.hero-2 .form-alt input {
-		padding: 0 100px 0 20px;
+		width: 320px;
+		padding: 0 20px 0 20px;
 	}
 }
 
 @media screen and (max-width: 420px) {
 	.hero-2 .form-alt input {
-	    text-align: center;
+		text-align: center;
+		width: 320px;
 	    padding: 20px 20px;
 	}
 
