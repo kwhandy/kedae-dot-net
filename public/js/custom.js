@@ -51,18 +51,6 @@ jQuery(function($) {
     });
 
 
-    /*-------- Owl Carousel ---------- */
-
-      $(".review-cards").owlCarousel({
-        slideSpeed: 200,
-        items: 1,
-        singleItem: true,
-        autoplay:true,
-        autoplayTimeout:2000,
-        autoplayHoverPause:true,
-        pagination: false,
-      });
-
 
   /* ------ jQuery for Easing min -- */
   (function($) {
